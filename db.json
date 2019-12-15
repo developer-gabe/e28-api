@@ -15,6 +15,14 @@
 				"date": "2019-10-20 12:59:18",
 				"tags": ["vue", "webdev"],
 				"exceprt": "Exploring single file components in the Vue framework"
+			},
+			{
+				"id": 3,
+				"title": "Fluid Animated CSS Gradient Text Effect",
+				"link": "/css-aniamted-gradient",
+				"date": "2019-02-12 16:23:47",
+				"tags": ["css", "webdev"],
+				"exceprt": "Quick tutorial on how to create an animated css gradient text effect"
 			}
 		]
 	 }
