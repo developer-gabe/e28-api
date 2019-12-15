@@ -1,39 +1,47 @@
 {
-		"posts": [
-			{
-				"id": 1,
-				"title": "A Quick Introduction to CSS Grid",
-				"link": "/intro-to-css-grid",
-				"date": "2019-02-10 20:47:18",
-				"tags": ["css", "webdev"],
-				"exceprt": "Overview on Grid Containers, Grid Items, Columns, Rows, and more."
-			},
-			{
-				"id": 2,
-				"title": "Single File Components",
-				"link": "/single-file-components",
-				"date": "2019-10-20 12:59:18",
-				"tags": ["vue", "webdev"],
-				"exceprt": "Exploring single file components in the Vue framework"
-			},
-			{
-				"id": 3,
-				"title": "Fluid Animated CSS Gradient Text Effect",
-				"link": "/css-animated-gradient",
-				"date": "2019-02-12 16:23:47",
-				"tags": ["css", "webdev"],
-				"exceprt": "Quick tutorial on how to create an animated css gradient text effect"
-			}
-		],
-		"comments": [
-			{
-				"id": 1,
-				"text": "Test comment one"
-			},
-			{
-				"id": 2,
-				"text": "Test comment two"
-			}
-		]
-	 }
-
+	"posts": [
+		{
+			"id": 1,
+			"title": "A Quick Introduction to CSS Grid",
+			"link": "/intro-to-css-grid",
+			"date": "2019-02-10 20:47:18",
+			"tags": [
+				"css",
+				"webdev"
+			],
+			"exceprt": "Overview on Grid Containers, Grid Items, Columns, Rows, and more."
+		},
+		{
+			"id": 2,
+			"title": "Single File Components",
+			"link": "/single-file-components",
+			"date": "2019-10-20 12:59:18",
+			"tags": [
+				"vue",
+				"webdev"
+			],
+			"exceprt": "Exploring single file components in the Vue framework"
+		},
+		{
+			"id": 3,
+			"title": "Fluid Animated CSS Gradient Text Effect",
+			"link": "/css-animated-gradient",
+			"date": "2019-02-12 16:23:47",
+			"tags": [
+				"css",
+				"webdev"
+			],
+			"exceprt": "Quick tutorial on how to create an animated css gradient text effect"
+		}
+	],
+	"comments": [
+		{
+			"id": 1,
+			"text": "Test comment one"
+		},
+		{
+			"id": 2,
+			"text": "Test comment two"
+		}
+	]
+}
