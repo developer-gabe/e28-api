@@ -24,6 +24,16 @@
 				"tags": ["css", "webdev"],
 				"exceprt": "Quick tutorial on how to create an animated css gradient text effect"
 			}
+		],
+		"comments": [
+			{
+				"id": 1,
+				"text": "Test comment one"
+			},
+			{
+				"id": 2,
+				"text": "Test comment two"
+			}
 		]
 	 }
 
